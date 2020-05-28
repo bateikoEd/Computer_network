@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22628957-3fd8-4763-8c00-465d34534d95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1cDbPVbI7GFx4H6w8HR4mml8Kqz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../pymystem3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blockchain" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22628957-3fd8-4763-8c00-465d34534d95" name="Default Changelist" comment="" />
+      <created>1590066086184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590066086184</updated>
+      <workItem from="1590066098200" duration="603000" />
+      <workItem from="1590144021934" duration="671000" />
+      <workItem from="1590155923078" duration="5288000" />
+      <workItem from="1590163505489" duration="378000" />
+      <workItem from="1590171168744" duration="4964000" />
+      <workItem from="1590176867105" duration="8392000" />
+      <workItem from="1590185461453" duration="1571000" />
+      <workItem from="1590217859696" duration="247000" />
+      <workItem from="1590218148622" duration="5415000" />
+      <workItem from="1590243037166" duration="3896000" />
+      <workItem from="1590326479301" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2052" y="341" width="538" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590173656471">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2052" y="341" width="538" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.339.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590173656471" />
+    <state x="843" y="476" width="374" height="333" key="FileChooserDialogImpl" timestamp="1590326542484">
+      <screen x="67" y="339" width="1299" height="741" />
+    </state>
+    <state x="2513" y="200" width="424" height="484" key="FileChooserDialogImpl/67.339.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1590218103351" />
+    <state x="843" y="476" width="374" height="333" key="FileChooserDialogImpl/67.339.1299.741/1366.0.1920.1080@67.339.1299.741" timestamp="1590326542484" />
+    <state x="344" y="32" key="SettingsEditor" timestamp="1590243074341">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="344" y="32" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1590243074341" />
+  </component>
+</project>
